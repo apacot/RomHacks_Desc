@@ -42,3 +42,34 @@ Si vous réussissez cette ultime dernière épreuve vous gagnerez une récompens
 
 - accès aux iles des pokemons fabuleux comme deoxys
 
+Evolution Cachée :
+
+- Barpau : lvl 30
+- Spectrum : lvl 50
+- Cochignon : lvl 55
+- Magneton : lvl 50
+- Rhinoferos : lvl 55
+- Saquedeneu : lvl 38
+- Teraclope : lvl 55
+- Melancolux : pierre Lune
+- Motisma : lvl 40 --> forme eau uniquement
+- Kirlia : lvl 30 --> Gallame si atq>def, Gardevoir sinon
+- Roselia : pierre soleil
+- Yanma : lvl 33
+- Candine : lvl 29
+- Geolithe : lvl 40
+- Farfuret : lvl 45
+- Scorplane : lvl 30
+- Tetarte : pierre lune --> Tarpaud
+- Cornebre : pierre lune
+- Machopeur : lvl 40
+- Betochef : lvl 40
+- Kadabra : lvl 40
+- Chrysapile : lvl 45
+- Insecateur : pierre lune
+- Escargaume : lvl 35 --> Lancargot
+- Ramoloss : pierre eau --> Roigada
+- Coquiperle : lvl 40 --> Serpang si atq>def sinon Rosabyss
+- Vemini : lvl 45
+- Mentali : pierre soleil
+- Noctali : Pierre lune
