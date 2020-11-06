@@ -1,0 +1,70 @@
+Histoire :
+
+La région est submergée par une vague de crimes. 
+Une organisation du nom de TEAM ROCKET procède à des enlèvements de masse de Pokémon, créant une panique sans précédent.
+
+Les forces de police mettent tous les moyens en oeuvre pour mettre fin à cette période de répression, 
+mais l'organisation des criminels est telle que cela s'avère insuffisant. 
+
+Certains dresseurs décident donc de faire face à la TEAM ROCKET par leurs propres moyens,
+ mais sans réel succès non plus, et ce malgré la réussite de certains à contrecarrer quelques plans de l'organisation.
+
+C'est ainsi que pour renforcer les dresseurs et pour éviter de centraliser les Pokémon dans les laboratoires ou les centres, 
+une mesure a été mise en place, consistant à équiper tous les dresseurs jugés aptes à se battre d'un Pokémon pour se défendre.
+
+Cela sera-t-il suffisant pour mettre fin à la période de trouble qui règne au sein de la région ?
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
+Nouveautés :
+
+- Une toute nouvelle histoire : nouveau scénario, nouveaux personnages, quête plus mature mais qui conserve l'esprit Pokémon.
+
+- De toutes nouvelles maps : toutes les maps du jeu sont entièrement nouvelles --> nouvelles villes, nouvelles routes et nouveaux lieux.
+Anciens lieux et routes revisitées --> diminution des hautes herbes pour un jeu plus fluide
+Nouvelles worldmap : ajout d'une fonction pour voler plus rapidement
+
+- Ajout d'un système jour/nuit et 4 saisons, visualiseur d'EV et des bonus des natures
+
+- Ajout d'un nouveau mode de jeu --> concours pokemon
+
+- De nombreuses quêtes annexes et secondaires qui vous attendent après avoir terminé l'aventure principale.
+
+- Une très longue durée de vie
+après de nombreuses heures consacrées à la quête principale
+s'ajoute encore du temps de jeu pour compléter les quêtes secondaires.
+
+- Tous les Pokémon de toutes les GEN sont capturables (y compris les légendaires).
+
+- La proba des shiny --> 2 taux possibles : 1/400 ou 1/8192
+(le taux d'origine permettant d'utiliser le RNG)
+
+- Le Pokéradar disponible.
+
+- Niveau des Pokémon sauvages adapté en fonction de la difficulté choisie
+
+- Nouveaux objets : certains utilisables en combat
+ajout de la Pilule Talent
+
+- Changement de l'interface --> - Plusieurs menus ont été revus : menu Pokémon, carte, écrans de combat, menu Start...
+
+- De nouvelles méthodes d'évolution et de nouvelles capacités spéciales issues des générations récentes
+
+- Différentes tenues disponibles pour le joueur à découvrir en boutique.
+
+- Tour de combat ajoutée --> difficulté progressive, combats stratégiques
+Fait partie d'une zone de combat comportant plusieurs attractions
+
+- Ajout des Mega-Evolution : boite dans le sac pour les stocker
+
+- Apparition d'un soutérain --> Déterrez des objets rares et des sphères et échangez-les
+
+- Nouveau Pokédex avec zone automatique
+
+-- Beaucoup d'autres nouveautés améliorant l'expérience du jeu !
+
+- Un Câble Link intégré au jeu pour les Pokémon évoluant par échange.
+
+
+Si votre jeu se fige sur un écran blanc au démarrage ou l'impossibilité de sauvegarder depuis le jeu, 
+allez dans 'Options>Émulateur>Type de sauvegarde' et sélectionnez Flash 128K au lieu de Flash 64K.
