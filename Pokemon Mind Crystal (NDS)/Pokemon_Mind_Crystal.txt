@@ -1,0 +1,16 @@
+Pokemon Mind Crystal :
+
+- Adapatation basée sur la version Soulsilver
+- Implémentation à 100% du type fée
+
+Changement d'un point de vue technique :
+
+- modification scénario :
+    - la fille dans le portail du bois aux chenes qui donnait la CT12 donne maintenant l'évoluroc
+    - la 1ere équipe d'Albert est modifiée
+    - la 1ere équipe d'Hector est modifiée
+    - la 1ere équipe de Blanche est modifiée
+    - Ajout de combat avec équipe Lvl.100 contre les champions d'arène, le conseil4 et Red, après l'avoir battu 1 fois
+
+Type Fée :
+
