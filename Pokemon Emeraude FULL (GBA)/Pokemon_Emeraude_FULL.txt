@@ -42,6 +42,14 @@ Si vous réussissez cette ultime dernière épreuve vous gagnerez une récompens
 
 - accès aux iles des pokemons fabuleux comme deoxys
 
+Les 4 fakemon sont :
+
+- Spinosaure (évolution de Vélopti), le Fakemon dinosaure, Offensif et qui fait de gros dégats.
+- Takylosaure (évolution de Tatou et Tatécrase), le Fakemon inventé, Defensif et très résistant.
+- Perce-Oreille, Fakemon insecte moins fort que les 2 premiers, mais plus rapide.
+- Un Fakemon Légendaire à la toute fin du jeu que tu découvrira
+
+
 Evolution Cachée :
 
 - Barpau : lvl 30
